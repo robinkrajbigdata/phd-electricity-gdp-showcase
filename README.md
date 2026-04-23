@@ -1,2 +1,3 @@
 # phd-electricity-gdp-showcase
-PhD
+Title: Future Prediction and Impact of Consumption of Electricity on European Economic Growth.
+
